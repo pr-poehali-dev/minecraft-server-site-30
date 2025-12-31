@@ -102,7 +102,7 @@ export default function Index() {
             <div className="w-8 h-8 bg-primary rounded flex items-center justify-center">
               <Icon name="Box" size={20} className="text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold">MineCraft Server</span>
+            <span className="text-xl font-bold">Craft Time MC</span>
           </div>
           <nav className="hidden md:flex gap-6">
             <a href="#features" className="text-muted-foreground hover:text-foreground transition-colors">
@@ -129,7 +129,7 @@ export default function Index() {
             </Badge>
             <h1 className="text-4xl md:text-6xl font-bold leading-tight">
               Добро пожаловать на
-              <span className="text-primary block mt-2">Epic Minecraft Server</span>
+              <span className="text-primary block mt-2">Craft Time MC</span>
             </h1>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
               Модифицированный сервер с кастомным контентом, уникальными плагинами и активным комьюнити
@@ -235,10 +235,10 @@ export default function Index() {
               <div className="w-6 h-6 bg-primary rounded flex items-center justify-center">
                 <Icon name="Box" size={14} className="text-primary-foreground" />
               </div>
-              <span className="font-bold">MineCraft Server</span>
+              <span className="font-bold">Craft Time MC</span>
             </div>
             <div className="text-sm text-muted-foreground">
-              © 2024 Epic Minecraft Server. Все права защищены.
+              © 2024 Craft Time MC. Все права защищены.
             </div>
             <div className="flex gap-4">
               <Button variant="ghost" size="icon">
